@@ -1,8 +1,8 @@
 {
-  "name": "spookyswap-sdk",
+  "name": "syfin-sdk",
   "license": "MIT",
   "version": "1.0.0",
-  "description": "🛠 An SDK for building applications on top of spookyswap.",
+  "description": "🛠 An SDK for building applications on top of Syfin.",
   "main": "dist/index.js",
   "module": "dist/sdk.esm.js",
   "typings": "dist/index.d.ts",
@@ -10,9 +10,9 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/SpookySwap/SpookySwap-sdk.git",
+  "repository": "https://github.com/syfinance/syfin-sdk.git",
   "keywords": [
-    "spookyswap",
+    "syfin",
     "ethereum",
     "fantom"
   ],
